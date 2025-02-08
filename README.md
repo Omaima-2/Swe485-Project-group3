@@ -3,7 +3,7 @@ Students Names :
 Aleen Alammar,
 Nada Alotaibi,
 Leen Alqahtani,
-Omaiam Rahhal,
+Omaima Rahhal,
 Suhad Aljuraysh
 
 ____________________________________________________________________________________
